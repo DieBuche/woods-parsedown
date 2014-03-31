@@ -1,17 +1,23 @@
 {
   "name": "woods-parsedown",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
-  "devDependencies": {},
-  "author": "Jonathan Puckey",
-  "license": "MIT",
   "devDependencies": {
-	  "chai": "*",
-	  "mocha": "*",
-	  "superagent": "*"
+    "chai": "*",
+    "mocha": "*",
+    "superagent": "*"
   },
+  "author": {
+    "name": "Jonathan Puckey"
+  },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/studiomoniker/woods-parsedown.git"
-  }
+  },
+  "description": "Woods Parsedown",
+  "bugs": {
+    "url": "https://github.com/studiomoniker/woods-parsedown/issues"
+  },
+  "homepage": "https://github.com/studiomoniker/woods-parsedown"
 }
